@@ -1,0 +1,8 @@
+node_modules/
+build/
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+src/assets/header-reference
+src/assets/header-reference.png
